@@ -1,2 +1,4 @@
-# extendr-data-examples
-This example shows how to interact with R datatypes.
+# extendr-examples
+
+Examples of R packages crated using extendr.
+
